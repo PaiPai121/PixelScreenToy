@@ -60,5 +60,17 @@ usb输出是5V的，所以打算把电池供电也统一到5V来，准备整个�
 
 <img width="530" alt="image" src="https://user-images.githubusercontent.com/53391594/197381967-de2db9eb-ae6e-46da-90a2-58738410d91b.png">
 
+不过啊，想用电池好麻烦啊，还得整充放电保护啥的。这次我就偷个懒
+
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/53391594/197393779-b6ab60dd-3dfe-44d6-b550-c687dc694bee.png">
+
+直接用这个充放电好了
+
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/53391594/197395031-4c344c44-87b0-4d5b-8673-7a9f01b2249d.png">
 
 
+然后修改一下，统一用这个5V供电
+
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/53391594/197394989-70614f43-eaa6-452d-a491-9c8d1d391b21.png">
+
+### WS2812B5050灯珠阵列
