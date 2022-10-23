@@ -74,3 +74,14 @@ usb输出是5V的，所以打算把电池供电也统一到5V来，准备整个�
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/53391594/197394989-70614f43-eaa6-452d-a491-9c8d1d391b21.png">
 
 ### WS2812B5050灯珠阵列
+
+这个阵列设置多大我一直没想太好
+大了吧，物料又多又耗电，焊起来还麻烦
+小了吧，你说8x8能显示个啥图像，啥也显不了。
+我最开始计划是16*32
+一算，512颗，得干死我。8*14好了。（想凑黄金分割比）
+
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/53391594/197398476-8d74b37e-4a69-4d93-94b2-fc4b7fcf0249.png">
+
+大概就是这么样去排列灯珠了。
+
